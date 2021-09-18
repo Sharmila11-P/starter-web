@@ -1,0 +1,33 @@
+https://www.javatpoint.com/cognizant-interview-questions
+http://www.c4learn.com/c-programs/print-1-10-numbers-without-using.html
+All que:
+
+https://prepinsta.com/cognizant-interview/technical/
+DBMS:
+
+https://www.complexsql.com/interview-questions-for-cognizant/
+https://stackoverflow.com/questions/5191503/how-to-select-the-last-record-of-a-table-in-sql
+https://www.geeksforgeeks.org/acid-properties-in-dbms/
+https://www.guru99.com/database-normalization.html
+https://chartio.com/learn/databases/how-to-find-duplicate-values-in-a-sql-table/
+https://www.guru99.com/aggregate-functions.html
+https://www.studytonight.com/dbms/sql-function.php
+
+https://www.geeksforgeeks.org/add-two-numbers-without-using-arithmetic-operators/
+https://www.tutorialgateway.org/c-program-to-calculate-generic-root-of-a-number/
+https://www.educba.com/computer-network-interview-questions/
+Difference between Distributed and realtime OS.
+https://www.geeksforgeeks.org/java-program-to-check-whether-a-string-is-a-palindrome/
+https://www.geeksforgeeks.org/cognizant-interview-experience-on-campus-3/?ref=lbp
+https://www.geeksforgeeks.org/cognizant-interview-experience-on-campus-4/?ref=lbp
+https://byjus.com/free-ias-prep/difference-between-ipv4-and-ipv6/?utm_source=Google&utm_medium=CPC&utm_campaign=IAS_Dynamic_Traffic_Chennai_April30&utm_term=&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmL9k1587AuMKWKq4NTejIKexPMMadfi5J4YUJRwDTlvmPFOk5XeW4EaAhICEALw_wcB
+https://career.guru99.com/top-50-oops-interview-questions/
+
+NOTES:
+https://stackoverflow.com/questions/2732555/overcoming-c-limitations-for-large-projects
+https://www.javatpoint.com/cpp-vs-java#:~:text=C%2B%2B%20is%20compiled%20and%20run,at%20runtime%20and%20produces%20output.
+Data structures provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services
+. Usually, efficient data structures are key to designing efficient algorithms
+https://www.c-sharpcorner.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/
+https://www.edureka.co/blog/interview-questions/artificial-intelligence-interview-questions/
+https://www.geeksforgeeks.org/polymorphism-in-c/
